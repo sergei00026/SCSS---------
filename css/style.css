@@ -1,0 +1,15 @@
+body {
+  font-size: 16px;
+}
+
+body div {
+  background: url("zxc") 50% 50%/cover no-repeat;
+}
+
+h1 {
+  margin: 0px 0px 0px 0px;
+}
+
+header {
+  background: url("") 50% 50%/cover no-repeat;
+}
